@@ -1,5 +1,5 @@
 # nlw-habits
-<h1 align="center">Registro de hábitos diários</h1>
+<h1 align="center">Registro de Hábitos Diários</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

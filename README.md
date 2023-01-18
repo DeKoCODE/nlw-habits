@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="nlw-habits" src="https://i.postimg.cc/L65xd08W/nlw-habits.png" width="50%">
+  <img alt="nlw-habits" src="https://i.postimg.cc/L65xd08W/nlw-habits.png" width="65%">
 </p>
 
 ## 🚀 Tecnologias
